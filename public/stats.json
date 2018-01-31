@@ -1,0 +1,98 @@
+{
+  "assetsByChunkName": {
+    "path---federal-menu": [
+      "path---federal-menu-a0e39f21c11f6a62c5ab.js",
+      "path---federal-menu-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-27ce9cc27487b26898d7.js",
+      "component---src-pages-index-js-27ce9cc27487b26898d7.js.map"
+    ],
+    "path---mercury": [
+      "path---mercury-a0e39f21c11f6a62c5ab.js",
+      "path---mercury-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---jamie-veg-patch": [
+      "path---jamie-veg-patch-a0e39f21c11f6a62c5ab.js",
+      "path---jamie-veg-patch-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-buffalo-7-infographic-js": [
+      "component---src-pages-buffalo-7-infographic-js-5aa3b50b072502adb0a0.js",
+      "component---src-pages-buffalo-7-infographic-js-5aa3b50b072502adb0a0.js.map"
+    ],
+    "component---src-pages-jamie-veg-patch-js": [
+      "component---src-pages-jamie-veg-patch-js-c22dd9bb315b2182b91a.js",
+      "component---src-pages-jamie-veg-patch-js-c22dd9bb315b2182b91a.js.map"
+    ],
+    "component---src-pages-festival-of-you-js": [
+      "component---src-pages-festival-of-you-js-9a33a5a2cf0f71a373fb.js",
+      "component---src-pages-festival-of-you-js-9a33a5a2cf0f71a373fb.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-dd6efd7ba0eb6eacbacc.js",
+      "component---src-layouts-index-js-dd6efd7ba0eb6eacbacc.js.map"
+    ],
+    "path---reebok-project": [
+      "path---reebok-project-a0e39f21c11f6a62c5ab.js",
+      "path---reebok-project-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-federal-menu-js": [
+      "component---src-pages-federal-menu-js-f68c10dd18f14102031b.js",
+      "component---src-pages-federal-menu-js-f68c10dd18f14102031b.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-open-market-presentation-js": [
+      "component---src-pages-open-market-presentation-js-a48e088dcdcbac944fdb.js",
+      "component---src-pages-open-market-presentation-js-a48e088dcdcbac944fdb.js.map"
+    ],
+    "path---open-market-presentation": [
+      "path---open-market-presentation-a0e39f21c11f6a62c5ab.js",
+      "path---open-market-presentation-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-8bc2cd8277216c882104.js",
+      "commons-8bc2cd8277216c882104.js.map"
+    ],
+    "path---buffalo-7-infographic": [
+      "path---buffalo-7-infographic-a0e39f21c11f6a62c5ab.js",
+      "path---buffalo-7-infographic-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-mercury-js": [
+      "component---src-pages-mercury-js-15a782bb5e776b35e50d.js",
+      "component---src-pages-mercury-js-15a782bb5e776b35e50d.js.map"
+    ],
+    "component---src-pages-reebok-project-js": [
+      "component---src-pages-reebok-project-js-7f3ad100ae6e8c646c34.js",
+      "component---src-pages-reebok-project-js-7f3ad100ae6e8c646c34.js.map"
+    ],
+    "app": [
+      "app-2abd3774f41e7c7016ce.js",
+      "build-js-styles.css",
+      "app-2abd3774f41e7c7016ce.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---festival-of-you": [
+      "path---festival-of-you-a0e39f21c11f6a62c5ab.js",
+      "path---festival-of-you-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
